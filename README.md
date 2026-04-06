@@ -24,30 +24,10 @@
 Please run the following commands to host a server:
 
 ```
-git clone https://github.com/jkjkjiin/test.git
-cd Space
-npm i
-npm run build
-node server.js
+pnpm i
+pnpm start
 ```
-### setting up proxy server
-
-```
-npm i
-npm run build
-node server.js
-```
-### To setup proxy dev server
-```
-npm i
-npm run dev
-```
-### Start proxy server
-
-```
-node server.js
-```
-### Updating
+### Updating (unlikely to be needed)
 
 ```
 git pull --force --allow-unrelated-histories
