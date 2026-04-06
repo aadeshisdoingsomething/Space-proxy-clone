@@ -2,6 +2,9 @@
 if i were you i would interstellar (link below), its a bit less likely to throw an error and more secure but if you like this one (it looks nicer) than use this. </br >
 https://github.com/aadeshisdoingsomething/Interstellar-clone 
 
+## HOWEVER
+currently this works better than interstellar
+
 
 # How to use (very simple for dumb dumbs)
 
